@@ -1,0 +1,2 @@
+# diary-go
+record go
